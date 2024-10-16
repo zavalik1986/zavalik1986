@@ -22,7 +22,7 @@ De 2016 até 2020 atuando na área de **eletrotécnica** relizado manutenção d
 De 2020 até 2024 atuando na área de **Automação** relizado automação equipamentos e manutenção ⚡.
 
 ### Facilitador na UNIMED MISSÕES - Santo Ângelo
-De 2024, atualmente na área de **Engenharia Clínica** e **Engenharia de Manutenção** gestão de equipamentos ⚡.
+De 2024, atualmente na área de **Engenharia Clínica** e **Engenharia de Manutenção** ⚡.
 
 ### Membro do Comitê de Cirurgia Robótica 🤖
 - Participação na **implantação do site planning do Da Vinci X** (cirurgia robótica).
