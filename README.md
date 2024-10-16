@@ -1,4 +1,4 @@
-# Rafael Zavalik Castro - Engenheiro Eletricista ⚡
+# Rafael Zavalik Castro ⚡
 <table>
   <tr>
     <td>
@@ -12,21 +12,31 @@
 
 ## 🌟 Experiência Profissional
 
-### Engenheiro Eletricista no INMETRO - Santo Ângelo
-Desde 2006, atuando na área de **metrologia** e **engenharia elétrica** ⚡.
+### Tecnico em Metrologia no INMETRO - Santo Ângelo
+De 2006 até 2015 atuando na área de **metrologia** relizado verificação de instrumentos de medição ⚖️.
+
+### Tecnico em Eletrotécnica na UNIMED MISSÕES - Santo Ângelo
+De 2016 até 2020 atuando na área de **eletrotécnica** relizado manutenção de equipamentos e paineis elétricos ⚡.
+
+### Tecnico em Automação Industrial na UNIMED MISSÕES - Santo Ângelo
+De 2020 até 2024 atuando na área de **Automação** relizado automação equipamentos e manutenção ⚡.
+
+### Facilitador na UNIMED MISSÕES - Santo Ângelo
+De 2024, atualmente na área de **Engenharia Clínica** e **Engenharia de Manutenção** gestão de equipamentos ⚡.
 
 ### Membro do Comitê de Cirurgia Robótica 🤖
 - Participação na **implantação do site planning do Da Vinci X** (cirurgia robótica).
 - Auxílio na implantação do **GE Allia 530**, o primeiro equipamento desse modelo no Brasil.
 
 ### 🔧 Projetos em Andamento
-- Desenvolvimento do layout para a instalação de uma **câmara hiperbárica** 🫧.
-- Facilitador em projetos de **treinamentos de NR10** e **consultoria em acreditação hospitalar**.
+- Desenvolvimento do layout para a instalação de uma **câmara hiperbárica** 🫧
+- Desenvolvimento de **projeto elétrico** para novo Laboratório de Exames Clínicos 💡.
+- Ministrar **treinamentos de NR10** 📝.
 
 ## 🎓 Formação Acadêmica
 - **Engenharia Elétrica** - URI - Santo Angelo 🎓
 - **Pós-graduação em Engenharia Clínica** - Unyleya 📚
-- Cursando inglês na Wizard 🇬🇧.
+- **Cursando inglês** - Wizard 🗣️.
 
 ## 📚 Publicações
 - **Congresso Nacional de Automática do Brasil**  
@@ -41,6 +51,7 @@ Desde 2006, atuando na área de **metrologia** e **engenharia elétrica** ⚡.
 - 📋 **Treinamentos NR10**
 - ⚙️ **Automação Hospitalar**
 - 🛠 **Gestão de Equipamentos Médicos**
+- 🤝 **Gestão de Equipe**
 
 ## 📫 Contato
 - **LinkedIn**: [Rafael Zavalik Castro](https://www.linkedin.com/in/rafaelzcastro/) 🔗
