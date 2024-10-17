@@ -16,10 +16,10 @@
 De 2006 até 2015 atuando na área de **metrologia** relizado verificação de instrumentos de medição ⚖️.
 
 ### Tecnico em Eletrotécnica na UNIMED MISSÕES - Santo Ângelo
-De 2016 até 2020 atuando na área de **eletrotécnica** relizado manutenção de equipamentos e paineis elétricos ⚡.
+De 2016 até 2018 atuando na área de **eletrotécnica** relizado manutenção de equipamentos e paineis elétricos ⚡.
 
 ### Tecnico em Automação Industrial na UNIMED MISSÕES - Santo Ângelo
-De 2020 até 2024 atuando na área de **Automação** relizado automação equipamentos e manutenção ⚡.
+De 2018 até 2024 atuando na área de **Automação** relizado automação equipamentos e manutenção ⚡.
 
 ### Facilitador na UNIMED MISSÕES - Santo Ângelo
 De 2024, atualmente na área de **Engenharia Clínica** e **Engenharia de Manutenção** ⚡.
